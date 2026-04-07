@@ -1,11 +1,14 @@
-#Whatsapp chatbot backend(Spring boot)
+# Whatsapp chatbot backend(Spring boot)
 This is a simple backend project that simulates a whatsapp chatbot using java and springboot.
+
+
 ## Features
 -Rest API endpoint: '/webhook'
 -Accepts POST request
 -responds to message:
 -"hi" -> "hello" how can I help you
 -"bye" ->"goodbye"
+
 
 ## Tech Stack
 -JAVA
